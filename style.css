@@ -6,3 +6,8 @@ nav{
     color : red;
     font-size: 2em;
 }
+
+a{
+    color:green;
+    text-decoration: none;
+}
